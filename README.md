@@ -1,2 +1,3 @@
 # Web-Development-Mini-Project
-Web Development Mini Project as "Capture Gallery"
+
+Its web development mini project using html & css. It includes basic html tags, hover effet and some transitions.
